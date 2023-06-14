@@ -1,15 +1,16 @@
 [
   {
     "id": 0,
-    "text": "Two SQL tables sit at the bar. A query approaches and asks 'Can I join you?'"
+    "text": "Mother: Did you enjoy your first day at school?-Girl: First day? Do you mean I have to go back tomorrow?"
+          
   },
   {
     "id": 1,
-    "text": "I was struggling to figure out how lightning works, but then it struck me."
+    "text": "Headmaster: I’ve had complaints about you, Johnny, from all your teachers. What have you been doing? Johnny: Nothing, sir.Headmaster: Exactly!"
   },
   {
     "id": 2,
-    "text": "The generation of random numbers is too important to be left to chance."
+    "text": "Patient: Doctor, I think that I’ve been bitten by a vampire.Doctor: Drink this glass of water.Patient: Will it make me better?Doctor: No, but I’ll be able to see if your neck leaks. ."
   },
   {
     "id": 4,
@@ -17,7 +18,7 @@
   },
   {
     "id": 5,
-    "text": "If Bill had a dime for every time Windows crashed ... Oh wait, he does."
+    "text": "Why did Adele cross the road? To say “hello from the other side”."
   },
   {
     "id": 6,
@@ -25,7 +26,7 @@
   },
   {
     "id": 7,
-    "text": "Knock knock. Who's there? Recursion. Recursion who? Knock knock."
+    "text": "Can February March? No, but April May."
   },
   {
     "id": 8,
